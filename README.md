@@ -29,5 +29,4 @@ Documentação de linguagem[Markdown](https://docs.github.com/pt/get-started/wri
 
 Texto Legal
 
-Texto legal do hub
 
