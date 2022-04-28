@@ -36,4 +36,8 @@ erro
 teste
 =======
 teste 01
+<<<<<<< HEAD
 >>>>>>> 8ae513c878e1b844dc14419b2da14a30d899b86c
+=======
+prova 02
+>>>>>>> 57cea84b435a77b044662e1782203e6d058e2b8e
