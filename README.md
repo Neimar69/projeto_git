@@ -31,8 +31,12 @@ Texto Legal
 
 
 erro
-<<<<<<< HEAD
+
 
 prova 3.1
-obs 01
+
 obs 03
+
+
+obs 02
+
