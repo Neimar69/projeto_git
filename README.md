@@ -31,5 +31,9 @@ Texto Legal
 
 
 erro
+<<<<<<< HEAD
 
 teste
+=======
+teste 01
+>>>>>>> 8ae513c878e1b844dc14419b2da14a30d899b86c
